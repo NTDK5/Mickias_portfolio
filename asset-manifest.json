@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mickias_portfolio/static/css/main.91de4c4f.css",
-    "main.js": "/Mickias_portfolio/static/js/main.ff895626.js",
+    "main.css": "/Mickias_portfolio/static/css/main.65e7d528.css",
+    "main.js": "/Mickias_portfolio/static/js/main.3b17e2fb.js",
     "static/media/hero-bg.jpg": "/Mickias_portfolio/static/media/hero-bg.2feca0ad2da25586454e.jpg",
     "static/media/Design 30.jpg": "/Mickias_portfolio/static/media/Design 30.d283b4f449a3fd4689e3.jpg",
     "static/media/Design 29.jpg": "/Mickias_portfolio/static/media/Design 29.910b21c0ea6212cca921.jpg",
@@ -54,11 +54,11 @@
     "static/media/lg.ttf?io9a6k": "/Mickias_portfolio/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/lg.woff2?io9a6k": "/Mickias_portfolio/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/Mickias_portfolio/index.html",
-    "main.91de4c4f.css.map": "/Mickias_portfolio/static/css/main.91de4c4f.css.map",
-    "main.ff895626.js.map": "/Mickias_portfolio/static/js/main.ff895626.js.map"
+    "main.65e7d528.css.map": "/Mickias_portfolio/static/css/main.65e7d528.css.map",
+    "main.3b17e2fb.js.map": "/Mickias_portfolio/static/js/main.3b17e2fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.91de4c4f.css",
-    "static/js/main.ff895626.js"
+    "static/css/main.65e7d528.css",
+    "static/js/main.3b17e2fb.js"
   ]
 }
